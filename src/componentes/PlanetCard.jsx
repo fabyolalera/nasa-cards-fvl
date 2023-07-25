@@ -35,7 +35,7 @@ const PlanetCard = ({ result }) => {
               <div>
                 <img className="img-fluid imagen-galeria" src={imageUrl} alt={title} />
               </div>
-              <div className="desc">
+              <div className="descripcion">
                 <h6>{title}</h6>
                 <p className='texto-credito fst-italic '>{fecha}</p>
               </div>

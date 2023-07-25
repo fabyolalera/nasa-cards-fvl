@@ -217,6 +217,9 @@ h1, h2, h3{
 .desc{
   color: #bbb;
 }
+.descripcion{
+  color: black;
+}
 .linea{
   border-bottom: #bbb 1px solid;
 }
