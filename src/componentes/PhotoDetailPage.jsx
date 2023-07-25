@@ -24,8 +24,7 @@ const PhotoDetailPage = ({ image }) => {
   const title = data[0].title;
   const imageUrl = image.links[0].href;
   const description = data[0].description;
-  const date = data[0].date_created;
-  const credit = data[0].secondary_creator;
+  
 
   return (
     <div className="planet-card container card-foto">
